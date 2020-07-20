@@ -3,7 +3,7 @@
 Este presente projeto foi construído com base nos frameworks NextJS && TailwindCSS, durante a Semana Fullstack Master, da DevPleno.
 
 <p align="center">
-  <img alt="PlatformScreenshot" src=".github/platformScreenshot.png" width="50%">
+  <img alt="PlatformScreenshot" src=".github/platformScreenshot.png">
 </p>
 
 # Construído com:
